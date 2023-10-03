@@ -1,6 +1,6 @@
 # Curso_Python
 
-Curso semipresencial de Big Data incluido en el programa "Hackea tu Futuro" organizado por la escuela de negocios The Valley Digital Business School en (Granada, 2023)
+Curso semipresencial de Big Data incluido en el programa "Hackea tu Futuro" organizado por la escuela de negocios The Valley Digital Business School (Granada, 2023)
 -
 
 Contenidos de los archivos de Python realizados en Google Colab 
