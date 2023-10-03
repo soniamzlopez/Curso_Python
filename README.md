@@ -17,4 +17,12 @@ En el archivo M4 - 02 (02/10/23):
 - 
   - Esquema con los tipos de datos en Python.
   - Cómo guardar int, float, str en variables y operar con ellas.
-  - 
+
+
+
+En el archivo M4 - 03 (02/10/23)
+- 
+  - Palíndromo:
+        - Dar la vuelta a un string.
+        - 
+        - Función replace.
