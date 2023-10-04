@@ -35,16 +35,18 @@ En el archivo M4 - 03 - Condicionales (02/10/23):
   - Bucles __while__.
   - Bucles __infinito__ con la función _break_.
   - Continuar un bucle con la función _continue_.
-  - Iterar con __for__ variable_iteradora __in__.
+  - Iterar con '__for__ variable_iteradora __in__'.
   - Generar secuencias de números con la función _range(start, stop, step)_.
   - Bucles __anidados__ con __for__ i __in__ range( ):
                                  __for__ j __in__ range( ):
-  - Ejercicios sobre bucles __for__ variable_iteradora __in__ y __while__.
+  - Ejercicios sobre bucles '__for__ variable_iteradora __in__' y __while__.
 
     
   En el archivo M4 - 10 - Pandas (03/10/23):
 - 
   - Importar la librería _pandas_ as _pd_.
   - Ejercicios con un DataFrame:
-      - Obtener filas (df[ ]).
-      - 
+      - Seleccionar filas (df[ ]).
+      - Seleccionar columnas (df[[Columna1, Columna2...]]).
+      - Comprobar si el DataFrame está vacío.
+      - Comprobar los datos de un df si son nulos.
