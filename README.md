@@ -46,8 +46,9 @@ En el archivo M4 - 03 - Condicionales (02/10/23):
 - 
   - Importar la librería _pandas_ as _pd_.
   - Ejercicios con un DataFrame:
-      - Seleccionar filas (df[ ]).
-      - Seleccionar columnas (df[[Columna1, Columna2...]]).
+      - Seleccionar filas (df[ ]) con notación de slicing.
+      - Seleccionar columnas (df[[Columna1, Columna2...]]) con notación de slicing.
       - Comprobar si el df está vacío.
       - Comprobar si los datos del df son nulos.
       - Acceder y modificar a un valor del df con la función _df.loc_.
+      - Sumar valores de las columnas con la función _sum_.
