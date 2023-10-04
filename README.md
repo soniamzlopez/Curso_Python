@@ -52,3 +52,21 @@ En el archivo M4 - 03 - Condicionales (02/10/23):
       - Comprobar si los datos del df son nulos.
       - Acceder y modificar a un valor del df con la función _df.loc_.
       - Sumar valores de las columnas con la función _sum_.
+
+   
+  En el archivo Prophet v2 - Predecir el valor de Amazon (04/10/23):
+- 
+  - Instalar (__!python -m pip install prophet__) y descargar los datos (__!pip install yfinance__) de la librería Prophet para predecir series temporales desarrollada por Facebook 
+      - 
+    
+  En el archivo SpaceX - 4 - EDA with Data Visualization (04/10/23):
+- 
+  - Importar las librerías:
+      - _pandas_ as _pd_
+      - _numpy_ as _np_
+      - _matplotlib.pyplot_ as _plt_
+      - _seaborn_ as _sns_
+  - Importar los datos subiéndolos directamente o montando Drive.
+  - __Categorical plot__(__sns.catplot__): regresión (seaborn y matplotlib).
+  - __Gráfico de barras__(__sns.barplot__): _.groupby( )[ ].mean()_, _.sort_values( )_, _.reset_index( )_
+  - __Gráfico de línea__(__sns.lineplot__): visualizar series temporales (_pd.DatetimeIndex( )_)
