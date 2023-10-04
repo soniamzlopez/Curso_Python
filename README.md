@@ -57,7 +57,7 @@ En el archivo M4 - 03 - Condicionales (02/10/23):
   En el archivo Prophet v2 - Predecir el valor de Amazon (04/10/23):
 - 
   - Instalar (__!python -m pip install prophet__) y descargar los datos (__!pip install yfinance__) de la librería Prophet para predecir series temporales desarrollada por Facebook 
-      - 
+    
     
   En el archivo SpaceX - 4 - EDA with Data Visualization (04/10/23):
 - 
