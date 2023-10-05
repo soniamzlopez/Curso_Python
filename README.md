@@ -3,25 +3,21 @@
 Curso semipresencial de Big Data incluido en el programa "Hackea tu Futuro" organizado por la escuela de negocios The Valley Digital Business School (Granada, 2023)
 -
 
-Contenidos de los archivos de Python realizados en Google Colab 
--
+__Contenidos de los archivos de Python realizados en Google Colab__
 
-En el archivo M4 - 01 (02/10/23):
-- 
+__En el archivo M4 - 01 (02/10/23):__
   - Tipo de datos (enteros, flotantes, texto, booleanos). 
   - Cómo se convierte un tipo de objeto a otro (ej.: de entero a cadena).
   - Ejemplos de operaciones (suma, resta, multiplicación, división y división de enteros).
   - Cómo se guarda el valor en una variable, imprimirla y operar con ella.
 
 
-En el archivo M4 - 02 (02/10/23):
-- 
+__En el archivo M4 - 02 (02/10/23):__
   - Esquema con los tipos de datos en Python.
   - Cómo guardar int, float, str en variables y operar con ellas.
 
 
-En el archivo M4 - 03 - Condicionales (02/10/23):
-- 
+__En el archivo M4 - 03 - Condicionales (02/10/23):__
   - Tabla con las operaciones de comparación.
   - Tabla con los elementos que Python considera falsos (ej.: [ ], ( ), { }, 0, 0.0).
   - Ejercicios:
@@ -30,8 +26,7 @@ En el archivo M4 - 03 - Condicionales (02/10/23):
       - Identificar un palíndromo con funciones (_replace_, _lower.( )_, _upper( )_, _reverse_) y condicionales.
 
    
-  En el archivo M4 - 06 - Bucles (03/10/23):
-- 
+__En el archivo M4 - 06 - Bucles (03/10/23):__
   - Bucles __while__.
   - Bucles __infinito__ con la función _break_.
   - Continuar un bucle con la función _continue_.
@@ -42,8 +37,7 @@ En el archivo M4 - 03 - Condicionales (02/10/23):
   - Ejercicios sobre bucles '__for__ variable_iteradora __in__' y __while__.
 
     
-  En el archivo M4 - 10 - Pandas (03/10/23):
-- 
+  __En el archivo M4 - 10 - Pandas (03/10/23):__
   - Importar la librería _pandas_ as _pd_.
   - Ejercicios con un DataFrame:
       - Seleccionar filas (df[ ]) con notación de slicing.
@@ -54,15 +48,13 @@ En el archivo M4 - 03 - Condicionales (02/10/23):
       - Sumar valores de las columnas con la función _sum_.
 
    
-  En el archivo Prophet v2 - Predecir el valor de Amazon (04/10/23):
-- 
+  __En el archivo Prophet v2 - Predecir el valor de Amazon (04/10/23):__
   - Instalar (__!python -m pip install prophet__) y descargar los datos (__!pip install yfinance__) de la librería Prophet para predecir series temporales desarrollada por Facebook 
     
     
-  En el archivo SpaceX - 4 - EDA with Data Visualization (04/10/23):
-- 
+  __En el archivo SpaceX - 4 - EDA with Data Visualization (04/10/23):__
   - Importar las librerías:
-      - _pandas_ as _pd_
+      - `pandas` as _pd_
       - _numpy_ as _np_
       - _matplotlib.pyplot_ as _plt_
       - _seaborn_ as _sns_
