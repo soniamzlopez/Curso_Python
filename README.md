@@ -16,6 +16,7 @@ __En el archivo M4 - 02 (02/10/23):__
   - Cómo guardar `int`, `float`, `str` en variables y operar con ellas.
 
 
+
 __En el archivo M4 - 03 - Condicionales (02/10/23):__
   - Tabla con las operaciones de comparación.
   - Tabla con los elementos que Python considera falsos (ej.: [ ], ( ), { }, 0, 0.0).
@@ -46,10 +47,24 @@ __En el archivo M4 - 06 - Bucles (03/10/23):__
       - Acceder y modificar a un valor del df con la función `df.loc`.
       - Sumar valores de las columnas con la función `sum`.
 
+
    
   __En el archivo Prophet v2 - Predecir el valor de Amazon (04/10/23):__
-  - Instalar (`!python -m pip install prophet`) y descargar los datos (`!pip install yfinance`) de la librería Prophet para predecir series temporales desarrollada por Facebook 
-    
+  - Instalar (`!python -m pip install prophet`) y descargar los datos (`!pip install yfinance`) de la librería Prophet para predecir series temporales desarrollada por Facebook.
+  - Importar las librerías:
+      - `pandas` as `pd`
+      - `yfinance` as `yf`
+      - `plotly.graph_objects` as `go`
+  - Descargar la serie temporal de Amazon desde Yahoo Finance y se comprueba si hay nulos.
+  - Crear la gráfica con la fecha y el valor de entrada.
+  - Entrenar el modelo:
+      1) Guardar el modelo predictivo (Prophet) en una variable (`variable = Modelo()`).
+      2) Entrenar el modelo con el df (`variable.fit(df)`). Fase de aprendizaje.
+      3) Predecir los valores en un periodo de tiempo futuro (`future = m.make_future_dataframe()`).
+  - Predecir el nuevo df con el modelo entrenado (`nuevo_df = variable_entrenada.predict(fechas)`)
+  - Representar el modelo entrenado y los valores predecidos (`plot_plotly(variable, nuevo_df)`)
+
+
     
   __En el archivo SpaceX - 4 - EDA with Data Visualization (04/10/23):__
   - Importar las librerías:
