@@ -1,6 +1,6 @@
 # Curso_Python
 
-# Curso semipresencial de Big Data incluido en el programa "Hackea tu Futuro" organizado por la escuela de negocios The Valley Digital Business School (Granada, 2023)
+__Curso semipresencial de Big Data incluido en el programa "Hackea tu Futuro" organizado por la escuela de negocios The Valley Digital Business School (Granada, 2023)__
 
 __Contenidos de los archivos de Python realizados en Google Colab__
 
@@ -65,7 +65,6 @@ __En el archivo M4 - 06 - Bucles (03/10/23):__
   - Representar el modelo entrenado y los valores predecidos (`plot_plotly(variable, nuevo_df)`)
 
 
-    
   __En el archivo SpaceX - 4 - EDA with Data Visualization (04/10/23):__
   - Importar las librerías:
       - `pandas` as `pd`
@@ -76,3 +75,19 @@ __En el archivo M4 - 06 - Bucles (03/10/23):__
   - __Categorical plot__(`sns.catplot`): regresión (seaborn y matplotlib).
   - __Gráfico de barras__(`sns.barplot`): `.groupby( )[ ].mean()`, `.sort_values( )`, `.reset_index( )`
   - __Gráfico de línea__(`sns.lineplot`): visualizar series temporales (`pd.DatetimeIndex( )`)
+
+  __En el archivo M5 - 09 - Folium (04/10/23):__
+
+
+
+
+  __En el archivo SpaceX - 1 - Data Collection Api v2 (05/10/23):__
+  - Importar las librerías:
+      - `requests`
+      - `pandas` as `pd`
+      - `numpy` as `np`
+      - `datetime`
+  - Hacer peticiones a páginas web con `requests.get(url)`
+  - Transformar la respuesta a un diccionario `.json()`
+  - Transformar los datos en un df de Python `pd.json_normalize()`
+  - 
