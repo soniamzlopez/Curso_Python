@@ -50,7 +50,7 @@ __En el archivo M4 - 06 - Bucles (03/10/23):__
 
    
   __En el archivo Prophet v2 - Predecir el valor de Amazon (04/10/23):__
-  - Instalar (`!python -m pip install prophet`) y descargar los datos (`!pip install yfinance`) de la librería Prophet para predecir series temporales desarrollada por Facebook.
+  - Instalar (`!python -m pip install prophet`) y descargar los datos (`!pip install yfinance`) de la librería __Prophet__ para predecir series temporales desarrollada por Facebook.
   - Importar las librerías:
       - `pandas` as `pd`
       - `yfinance` as `yf`
@@ -80,6 +80,9 @@ __En el archivo M4 - 06 - Bucles (03/10/23):__
 
 
 
+  __Anotaciones_Sesión 4 (05/10/23):__
+  - Crear diccionarios { }.
+
 
   __En el archivo SpaceX - 1 - Data Collection Api v2 (05/10/23):__
   - Importar las librerías:
@@ -90,4 +93,13 @@ __En el archivo M4 - 06 - Bucles (03/10/23):__
   - Hacer peticiones a páginas web con `requests.get(url)`
   - Transformar la respuesta a un diccionario `.json()`
   - Transformar los datos en un df de Python `pd.json_normalize()`
-  - 
+  - Definir la función `def` y hacer loops ´for  in´
+  - Crear un diccionario para juntar todos los resultados de las listas nuevas.    
+
+  __En el archivo SpaceX - 3 - EDA Using SQL (05/10/23):__
+  - Importar las librerías:
+      - `pandas` as `pd`
+      - `numpy` as `np`
+      - `pymysql` as `pymsql`
+  - Crear la tabla en la df.
+  - Ejercicios con queries de SQL.
