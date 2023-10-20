@@ -5,7 +5,7 @@ __Day 1 - M4 - 02/10/23__
 
 * [First Notebook in Python](https://colab.research.google.com/drive/1ngyHS7a7KRN8tygZr32v0wlpTT0OLlhG)
 * [Second Notebook in Python](https://colab.research.google.com/drive/1Gu6ONof4K24EGTJ9Hwb-zO2lAG9r6CrS#scrollTo=0qWF3D5xZD0)
-* [Conditions](https://colab.research.google.com/drive/1yy3byX2MxIwdAFUVYrDYObh04j6LE501)
+* [Conditions](https://colab.research.google.com/drive/1yy3byX2MxIwdAFUVYrDYObh04j6LE501): if, elif, else
 
 __Day 2 - M4 - 03/10/23__
 
@@ -16,11 +16,12 @@ __Day 3 - M4 - 04/10/23__
 
 * [EDA with Data Visualization](https://colab.research.google.com/drive/1Qu81skVGDQdazpeDSaRMxj5jAmrGbTFt) with Matplotlib and Seaborn
 * [Data Visualization](https://colab.research.google.com/drive/1_ThQkZvc4-vuYjBN0y72WROIXzKnHaOh) with maps in Folium
-* Machine Learning to predict future Amazon value in [Prophet](https://colab.research.google.com/drive/1A5sawuqcsr-0TrW_JersilHTzSe5-ltB)
+* [Machine Learning](https://colab.research.google.com/drive/1A5sawuqcsr-0TrW_JersilHTzSe5-ltB)
+ to predict future Amazon value with Prophet
 
 __Day 4 - M4 - 05/10/23__
 
-* [Data Collection](https://colab.research.google.com/drive/1atLJMwlKKnU6lVDgGbNEcdVXuqc6jA-k) from the SpaceX API
+* [Data Collection](https://colab.research.google.com/drive/1atLJMwlKKnU6lVDgGbNEcdVXuqc6jA-k) from the SpaceX API: generation and manipulation of dataframes
 * [Data Analysis with SQL](https://colab.research.google.com/drive/1MOSuOel_g-GxGkBNRRcurRN8XaR-f-eF) in SQLAlchemy
 
 __Day 5 - M4 - 06/10/23__
