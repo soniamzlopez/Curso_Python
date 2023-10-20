@@ -3,7 +3,7 @@ Module 4 - Data Fundamentals with Python
 
 __Day 1 - M4__
 
-* 
+* [First steps in Python](https://colab.research.google.com/drive/1ngyHS7a7KRN8tygZr32v0wlpTT0OLlhG)
 
 __Day 2 - M4__
 
