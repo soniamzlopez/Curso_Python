@@ -3,8 +3,8 @@ Module 4 - Data Fundamentals with Python
 
 __Day 1 - M4 - 02/10/23__
 
-* [First Notebook with Python](https://colab.research.google.com/drive/1ngyHS7a7KRN8tygZr32v0wlpTT0OLlhG)
-* [Second Notebook with Python](https://colab.research.google.com/drive/1Gu6ONof4K24EGTJ9Hwb-zO2lAG9r6CrS#scrollTo=0qWF3D5xZD0)
+* [First Notebook in Python](https://colab.research.google.com/drive/1ngyHS7a7KRN8tygZr32v0wlpTT0OLlhG)
+* [Second Notebook in Python](https://colab.research.google.com/drive/1Gu6ONof4K24EGTJ9Hwb-zO2lAG9r6CrS#scrollTo=0qWF3D5xZD0)
 * [Conditions](https://colab.research.google.com/drive/1yy3byX2MxIwdAFUVYrDYObh04j6LE501)
 
 __Day 2 - M4 - 03/10/23__
